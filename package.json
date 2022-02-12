@@ -1,0 +1,22 @@
+{
+  "name": "lecture1",
+  "version": "1.0.0",
+  "description": "node js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roshan-lakhani/lecture1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roshan-lakhani/lecture1/issues"
+  },
+  "homepage": "https://github.com/roshan-lakhani/lecture1#readme",
+  "dependencies": {
+    "simple-node-logger": "^21.8.12"
+  }
+}
